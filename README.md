@@ -1,7 +1,6 @@
-<p align="center">
-  <img src="https://via.placeholder.com/800x200/1e3a8a/ffffff?text=Data+Analyst+Portfolio" alt="Data Analyst Portfolio Banner">
-</p>
-<h2 align="center">Hi there 👋, I'm Mathyas Tilahun</h2>
+![Project Banner](banner_image2.png)  
+
+<h2 align="center">Hi there, I'm Mathyas Tilahun</h2>
 <p align="center">
   <strong>Data Analyst</strong> | Python, SQL, Data Visualization | Turning raw data into clear business insights
 </p>
