@@ -82,6 +82,6 @@
 
 ---
 
-**Currently seeking remote Junior Data Analyst, BI Analyst, or SQL Analyst opportunities.**
+**Currently seeking Junior Data Analyst, BI Analyst, or SQL Analyst opportunities.**
 
 Feel free to explore my projects and reach out if you'd like to discuss potential collaboration or opportunities!
